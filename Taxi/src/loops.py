@@ -63,7 +63,6 @@ def evaluate(
 ) -> Tuple[List, List]:
     """
     Tests agent performance in random `n_episodes`.
-
     It returns:
     - timesteps_per_episode
     - penalties_per_episode
